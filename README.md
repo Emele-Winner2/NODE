@@ -1,4 +1,3 @@
-Here is a formatted `README.md` tailored for your **NODE IO BOARD** project based on the provided schematic:
 
 ---
 
